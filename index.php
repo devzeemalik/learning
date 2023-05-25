@@ -10,4 +10,6 @@ echo 'This is fifth commit';
 
 echo 'this is sixth commit';
 
+echo 'here i want to see confliction';
+
 
